@@ -1,4 +1,5 @@
 ## 👋 Hi! I'm Noemi Gomes!
+Welcome to my profile, I'm still a development student, but I'm going to try something in the area!
 
 <!--
 **noemiigomes/noemiigomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
